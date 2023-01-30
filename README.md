@@ -14,9 +14,6 @@ MARBERTv2 | 29.504 %| 48.45 % | 4 | 80
 **Ensemble Model**| **31.477 %**| **50.11 %** | - | -
 ---------------------
 
-1-Score =   56.31701280731738 %
-Accuracy =  58.830000000000005 %
-
 ### Sample 100K Qadi Results:
 -----------------------
 Model | F1 |ACC | Epochs | SEQ-LEN
