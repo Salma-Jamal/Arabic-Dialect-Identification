@@ -21,6 +21,6 @@ Model | F1 |ACC | Epochs | SEQ-LEN
 ------ |------|-----|------|----| 
 Base Model |- |-| 6 | 80
 bert-base-arabertv02-twitter | 54.93 %| 57.27 % | 6 | 80
-MARBERTv2 | - | - | 6 | 80
+MARBERTv2 | 56.60 %| 58.76 %| 6 | 80
 Ensemble Model | - | - | - | -
 ---------------------
