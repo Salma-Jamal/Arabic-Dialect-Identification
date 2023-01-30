@@ -19,8 +19,8 @@ MARBERTv2 | 29.504 %| 48.45 % | 4 | 80
 -----------------------
 Model | F1 |ACC | Epochs | SEQ-LEN
 ------ |------|-----|------|----| 
-Base Model |27.58 %|-| - | -
-bert-base-arabertv02-twitter | 29.015 %|  46.52 % | 4 | 80
-MARBERTv2 | 29.504 %| 48.45 % | 4 | 80
-Ensemble Model | 31.477 %| 50.11 % | - | -
+Base Model |- |-| 6 | 80
+bert-base-arabertv02-twitter | 54.93 %| 57.27 % | 6 | 80
+MARBERTv2 | - | - | 6 | 80
+Ensemble Model | - | - | - | -
 ---------------------
